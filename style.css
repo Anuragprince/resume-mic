@@ -1,0 +1,12 @@
+.main{
+	width:100%;
+	background-color:#c45e45;
+}
+.left{
+	width:30%;
+	border:3px solid;	
+}	
+.right{
+	width:50%;
+	background-color: white;
+}
