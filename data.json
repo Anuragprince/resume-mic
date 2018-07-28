@@ -1,0 +1,39 @@
+{
+	"details":{
+		"name":"Anurag Prince",
+		"image":"a.jpg",
+		"phone":"9999999999",
+		"email":"anurag11599@gmail.com"
+	},	
+"education":[
+	{
+		"course":"B.Tech(CSE)",
+		"college":"MIC college",
+		"percentage":"70%"
+	},
+	{
+		"course":"inter",
+		"college":"narayana college",
+		"percentage":"70%"
+	},
+	{
+		"course":"10th",
+		"college":"vsts college",
+		"percentage":"80%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming language",
+			"output":[
+				"C","C++","Java","Python"
+			]
+},
+{
+	"title":"Operating Systems",
+	"output":[
+		"Window","Linux","MAC"
+	]
+}
+]
+}					
